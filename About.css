@@ -1,0 +1,23 @@
+.about {
+    background-color: #ccc;
+    padding: 20px;
+  }
+  
+  .about h2 {
+    font-size: 2.5em;
+  }
+  
+  .about p {
+    font-size: 1.2em;
+  }
+  
+  .resume-button {
+    background-color: #333;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    display: block;
+    margin: 20px auto 0;
+  }
+  
